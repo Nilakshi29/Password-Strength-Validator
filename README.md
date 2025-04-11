@@ -4,7 +4,9 @@ A React Native component that dynamically evaluates password strength based on m
 
 ## 📱 Preview
 
-![Password UI](./assets/password-ui.png)
+![Password UI](./assets/images/Screenshot 2025-04-11 090750.png)
+![Password UI](./assets/images/Screenshot 2025-04-11 090809.png)
+![Password UI](./assets/images/Screenshot 2025-04-11 090842.png)
 
 ## ✅ Features
 
